@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-utilities",
+  "version": "0.0.0",
+  "description": "NodejsUtilities",
+  "main": "app.js",
+  "author": {
+    "name": "Jason"
+  },
+  "devDependencies": {
+    "@types/node": "^6.0.87"
+  }
+}
